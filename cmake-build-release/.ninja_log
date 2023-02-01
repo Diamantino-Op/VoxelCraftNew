@@ -1,0 +1,22 @@
+# ninja log v5
+54	993	6969849492805655	CMakeFiles/VoxelCraft.dir/lib/glad.c.obj	5d01136ec115bb40
+113	1012	6969849493007110	CMakeFiles/VoxelCraft.dir/src/input/Camera.cpp.obj	d03e988302dcdfaf
+127	1160	6969849494477506	CMakeFiles/VoxelCraft.dir/src/input/InputManager.cpp.obj	9f43432e35c38b9b
+151	1219	6969849495063621	CMakeFiles/VoxelCraft.dir/src/graphics/WindowManager.cpp.obj	3b3f59f5c22c6cb2
+44	1836	6969849501226697	CMakeFiles/VoxelCraft.dir/src/world/TerrainGenerator.cpp.obj	89ea1756c2ca316d
+100	2233	6969849505189839	CMakeFiles/VoxelCraft.dir/src/utility/Math.cpp.obj	cfc7d686075be04f
+65	2453	6969849507386688	CMakeFiles/VoxelCraft.dir/src/network/Socket.cpp.obj	3bb9a6ffe22e4a14
+140	2786	6969849510725386	CMakeFiles/VoxelCraft.dir/src/graphics/Skybox.cpp.obj	a2efbd5a2a9de0af
+1015	2959	6969849512457564	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Framebuffer.cpp.obj	66278182125ea565
+164	3141	6969849514273336	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Shader.cpp.obj	a4d79e0a81dac353
+0	3330	6969849516169260	CMakeFiles/VoxelCraft.dir/src/Main.cpp.obj	e9b1365459059fba
+88	3418	6969849517051587	CMakeFiles/VoxelCraft.dir/src/network/RemotePlayers.cpp.obj	c14110dfb4ec61f0
+177	3563	6969849518487759	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Mesh.cpp.obj	fa6527c781905d78
+76	3655	6969849519426163	CMakeFiles/VoxelCraft.dir/src/network/NetworkManager.cpp.obj	90c14b61a461ffad
+32	3725	6969849520120402	CMakeFiles/VoxelCraft.dir/src/utility/AssetManager.cpp.obj	a520143e0a10a63a
+1161	3936	6969849522232101	CMakeFiles/VoxelCraft.dir/src/graphics/gui/Crosshair.cpp.obj	6c7934de669bab32
+995	4176	6969849524639688	CMakeFiles/VoxelCraft.dir/src/graphics/utility/CascadedShadowMap.cpp.obj	e0744e3b1e61c2e5
+1220	4430	6969849527174028	CMakeFiles/VoxelCraft.dir/src/entity/Player.cpp.obj	b8ef7e935a7d66fb
+22	4593	6969849528799123	CMakeFiles/VoxelCraft.dir/src/world/chunk/ChunkManager.cpp.obj	63b0c5843d714564
+2233	4762	6969849530499827	CMakeFiles/VoxelCraft.dir/src/entity/Entity.cpp.obj	fe9cca4647b2b53d
+1837	7276	6969849555642413	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Texture.cpp.obj	7f70ba5ab34d38b7

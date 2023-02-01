@@ -125,7 +125,7 @@ void Chunk::BuildMesh()
 					if (adjacent.y >= 0 && !CheckForBlock(adjacent))
 					{
 						//Pixels
-						const int tilesheetSize = 16;
+						const int tilesheetSize = 8;
 						unsigned index = 0;
 						
 						// Get texture index

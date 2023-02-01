@@ -1,0 +1,24 @@
+# ninja log v5
+12	1135	6969849140252605	CMakeFiles/VoxelCraft.dir/lib/glad.c.obj	69533ffcd1c9512d
+93	1384	6969849142733882	CMakeFiles/VoxelCraft.dir/src/input/Camera.cpp.obj	d4915b1c508559d5
+141	1713	6969849146020617	CMakeFiles/VoxelCraft.dir/src/input/InputManager.cpp.obj	8cb3e4a208267a0f
+153	1739	6969849146283093	CMakeFiles/VoxelCraft.dir/src/graphics/WindowManager.cpp.obj	e0df4047dcff5ef1
+47	2437	6969849153261317	CMakeFiles/VoxelCraft.dir/src/world/TerrainGenerator.cpp.obj	403afecc05ea45bc
+78	2588	6969849154411140	CMakeFiles/VoxelCraft.dir/src/utility/Math.cpp.obj	3caf4c71b26061b2
+57	2868	6969849157553152	CMakeFiles/VoxelCraft.dir/src/utility/AssetManager.cpp.obj	f69168f0d639a09a
+104	2895	6969849157841512	CMakeFiles/VoxelCraft.dir/src/network/Socket.cpp.obj	8db88631c1293d44
+167	3403	6969849162919212	CMakeFiles/VoxelCraft.dir/src/graphics/Skybox.cpp.obj	388f042c277fd6ad
+1387	3499	6969849163887109	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Framebuffer.cpp.obj	bceced439f0c363
+185	3756	6969849166448447	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Shader.cpp.obj	4052c0aaad99ab64
+115	3989	6969849168771903	CMakeFiles/VoxelCraft.dir/src/graphics/utility/CascadedShadowMap.cpp.obj	8164bb5d7629fc9f
+1	4037	6969849169257469	CMakeFiles/VoxelCraft.dir/src/Main.cpp.obj	718e13ca2021c0e1
+127	4287	6969849171757794	CMakeFiles/VoxelCraft.dir/src/network/RemotePlayers.cpp.obj	13b0fa3a93054692
+68	4387	6969849172765132	CMakeFiles/VoxelCraft.dir/src/network/NetworkManager.cpp.obj	f4e397a42b44819c
+1740	4653	6969849175445684	CMakeFiles/VoxelCraft.dir/src/graphics/gui/Crosshair.cpp.obj	3a5b2810483001f
+1139	4753	6969849176441537	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Mesh.cpp.obj	d75dd9302f71129a
+2438	5022	6969849179134633	CMakeFiles/VoxelCraft.dir/src/entity/Entity.cpp.obj	a04824333514731c
+1714	5034	6969849179255796	CMakeFiles/VoxelCraft.dir/src/graphics/utility/Texture.cpp.obj	9aefb48524ce0cc3
+35	5118	6969849180092258	CMakeFiles/VoxelCraft.dir/src/world/chunk/ChunkManager.cpp.obj	1c1bbbf12ad8eaf8
+2589	5386	6969849182779489	CMakeFiles/VoxelCraft.dir/src/entity/Player.cpp.obj	84618cc2056e9078
+24	11086	6969849239736658	CMakeFiles/VoxelCraft.dir/src/world/chunk/Chunk.cpp.obj	b927d223613a4ac3
+11086	11740	6969849246238765	VoxelCraft.exe	68f582b0ba15f2e4

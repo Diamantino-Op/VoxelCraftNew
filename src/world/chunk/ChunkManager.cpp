@@ -2,15 +2,12 @@
 #include "../WorldConstants.h"
 #include "../../graphics/WindowManager.h"
 #include "../../network/NetworkManager.h"
-#include "../../input/Camera.h"
-#include "../../graphics/utility/CascadedShadowMap.h"
 #include "Chunk.h"
 
 #define GLFW_INCLUDE_NONE
 #include <GLFW/glfw3.h>
 #include <glm/gtx/norm.hpp>
 
-#include <iostream>
 #include <ranges>
 
 #include "../../utility/AssetManager.h"

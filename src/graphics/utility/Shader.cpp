@@ -1,6 +1,7 @@
 #include "Shader.h"
 #include <fstream>
 #include <sstream>
+#include "../../utility/AssetManager.h"
 #include <glm/gtc/type_ptr.inl>
 
 Shader::Shader(const GLchar *vertexPath, const GLchar *fragmentPath, const GLchar *geometryPath)
@@ -55,12 +56,12 @@ void Shader::CompileShader(GLuint shaderID, const char *content) const
 	// Load version
 	static std::string version;
 	if (version.size() == 0)
-		version = GetShaderCode("shaders/version.glsl");
+		version = GetShaderCode((AssetManager::Instance().GetPath() + "shaders/version.glsl").data());
 
 	// Load shared definitions
 	static std::string shared;
 	if (shared.size() == 0)
-		shared = GetShaderCode("shaders/Shared.h");
+		shared = GetShaderCode((AssetManager::Instance().GetPath() + "shaders/Shared.h").data());
 
 	const char *sources[] = { version.c_str(), shared.c_str(), content };
 	glShaderSource(shaderID, static_cast<GLsizei>(std::size(sources)), sources, nullptr);
